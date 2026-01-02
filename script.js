@@ -14,3 +14,6 @@
         document.getElementById("MyResult").value = b
 
     }
+
+
+console.log("Hello ZIllur Hello Bangladesh")
