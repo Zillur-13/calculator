@@ -16,4 +16,4 @@
     }
 
 
-console.log("Hello ZIllur Hello Bangladesh")
+console.log('git pull')
